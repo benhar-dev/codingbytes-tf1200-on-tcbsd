@@ -53,4 +53,4 @@ This content is provided for informational purposes only and reflects the person
 
 ### Thumbnail
 
-![image](./thumbnail/CBM - Installing TF1200 on TwinCAT BSD.png)
+![thumbnail](./thumbnail/CBM%20-%20Installing%20TF1200%20on%20TwinCAT%20BSD.png)
